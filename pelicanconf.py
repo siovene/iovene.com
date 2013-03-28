@@ -29,3 +29,5 @@ TAG_SAVE_AS = TAG_URL + 'index.html'
 
 ARCHIVES_URL = 'archives/'
 ARCHIVES_SAVE_AS = ARCHIVES_URL + 'index.html'
+
+CONTACT_URL = 'pages/contact/'
