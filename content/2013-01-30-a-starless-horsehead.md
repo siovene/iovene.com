@@ -1,7 +1,7 @@
 date: 2013-01-30 12:01:05
 slug: a-starless-horsehead
 title: A starless Horsehead
-categories: Astronomy
+category: Astronomy
 tags: G2-1600, Horsehead nebula, nebula, Simak 240
 
 [![][1]][1]

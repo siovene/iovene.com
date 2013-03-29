@@ -1,7 +1,7 @@
 date: 2013-01-31 22:47:52
 slug: debugging-html5-apps-in-the-tizen-emulator
 title: Debugging HTML5 apps in the Tizen Emulator
-categories: Software
+category: Software
 tags: Tizen
 
 The Tizen SDK comes with an emulator based on [QEMU](http://www.qemu.org/). The

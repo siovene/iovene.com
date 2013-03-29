@@ -1,7 +1,7 @@
 date: 2013-02-27 15:08:08
 slug: altering-all-sequence-owners-in-postgresql
 title: Altering all sequence owners in Postgresql
-categories: Software
+category: Software
 tags: migration, mysql, postgresql
 
 If you find yourself having to migrate from MySql to Postgresql, and you use
