@@ -9,6 +9,9 @@ SITELOGO = '/images/me.png'
 SITEDESCR = u'Hi, I am a software engineer and astrophotographer living in '\
 'Espoo, Finland, and working for the Intel Open Source Technology Centre.'
 
+LICENSE_NAME = 'CC BY-SA 3.0'
+LICENSE_URL  = 'http://creativecommons.org/licenses/by-sa/3.0/'
+
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 

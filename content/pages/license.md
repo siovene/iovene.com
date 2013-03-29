@@ -4,8 +4,8 @@ layout: page
 slug: license
 title: License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 2.5
-License](http://creativecommons.org/licenses/by-sa/2.5/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0
+License](http://creativecommons.org/licenses/by-sa/3.0/). In short:
 
 **You are free:**
 
