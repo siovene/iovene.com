@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+TYPOGRIFY = True
 
 AUTHOR = u'Salvatore Iovene'
 SITENAME = u'Salvatore Iovene'
