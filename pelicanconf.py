@@ -23,6 +23,7 @@ DEFAULT_LANG = u'en'
 
 DEFAULT_PAGINATION = 10
 THEME = 'lannisport'
+STATIC_PATHS = ['images', 'resume']
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
