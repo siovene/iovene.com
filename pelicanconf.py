@@ -6,7 +6,7 @@ AUTHOR = u'Salvatore Iovene'
 SITENAME = u'Salvatore Iovene'
 SITETAGLINE = u'Mostly astrophotography and code'
 SITEURL = 'http://iovene.com'
-SITELOGO = '/images/me.png'
+SITELOGO = 'images/me.png'
 SITEDESCR = u'Hi, I am a software engineer and astrophotographer living in '\
 'Espoo, Finland, and working for the Intel Open Source Technology Centre.'
 
