@@ -9,6 +9,12 @@ SITELOGO = '/images/me.png'
 SITEDESCR = u'Hi, I am a software engineer and astrophotographer living in '\
 'Espoo, Finland, and working for the Intel Open Source Technology Centre.'
 
+GITHUB_URL = 'https://github.com/siovene'
+LINKEDIN_URL = 'http://lnkd.in/r5w6Mj'
+TWITTER_URL = 'https://twitter.com/siovene'
+GOOGLE_URL = 'https://plus.google.com/110703431382853324739/'
+FLICKR_URL = 'http://flickr.com/photos/siovene'
+
 LICENSE_NAME = 'CC BY-SA 3.0'
 LICENSE_URL  = 'http://creativecommons.org/licenses/by-sa/3.0/'
 
