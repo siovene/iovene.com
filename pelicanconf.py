@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 TYPOGRIFY = True
+GOOGLE_ANALYTICS_CODE = 'UA-844985-1'
 
 AUTHOR = u'Salvatore Iovene'
 SITENAME = u'Salvatore Iovene'
