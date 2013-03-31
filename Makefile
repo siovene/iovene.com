@@ -33,6 +33,7 @@ help:
 	@echo '   dropbox_upload                   upload the web site via Dropbox    '
 	@echo '   ftp_upload                       upload the web site via FTP        '
 	@echo '   github                           upload the web site via gh-pages   '
+	@echo '   s3                               upload the web site via s3cmd      '
 	@echo '                                                                       '
 
 
