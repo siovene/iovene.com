@@ -32,95 +32,95 @@ So, let me tell you why you too should upload your astro-images to AstroBin,
 and contribute:
 
 
-1. **Unlimited uploads, unlimited size, for free**
+1.  **Unlimited uploads, unlimited size, for free**
 
-Astrophotography images have scientific value that shouldn't be lost in file
-compression. On AstroBin you can (and should!) upload full size images. And you
-have unlimited space for free.
-
-
-2. **Smart albums**
-
-Your astro-images will be automatically organized in dynamic and intelligent
-albums: by subject type (nebulae, clusters, galaxies...), by year and by
-equipment used.
-
-[![][1]][1]
+    Astrophotography images have scientific value that shouldn't be lost in
+    file compression. On AstroBin you can (and should!) upload full size
+    images. And you have unlimited space for free.
 
 
-3. **Dedication to data**
+2.  **Smart albums**
 
-On a general purpose image sharing site, you would upload your image and be
-done with it. AstroBin, instead, has a user interface specifically designed to
-enable you to input all the technical data of your image. AstroBin will
-autocomplete your input using a vast database: everything from telescopes, CCDs
-and filters to astronomical objects in many catalogues will show in popup
-dialogs for easy selection when you start typing their names. AstroBin is
-connected to the SIMBAD Astronomical Database, which contains over 5 million
-objects under over 15 million names!
+    Your astro-images will be automatically organized in dynamic and
+    intelligent albums: by subject type (nebulae, clusters, galaxies...), by
+    year and by equipment used.
 
-[![][2]][2]
+    [![][1]][1]
 
 
-4. **Data is strongly interconnected**
+3.  **Dedication to data**
 
-Have you ever wanted to see how your next image is going to look like? On
-AstroBin, you can search for all images of a certain target that were taken
-with a certain telescope and a certain CCD or camera. Or a certain filter. How
-about all the images between 6 and 8 hours of integration? Or with a certain
-Moon phase? You can do that!
+    On a general purpose image sharing site, you would upload your image and be
+    done with it. AstroBin, instead, has a user interface specifically designed
+    to enable you to input all the technical data of your image. AstroBin will
+    autocomplete your input using a vast database: everything from telescopes,
+    CCDs and filters to astronomical objects in many catalogues will show in
+    popup dialogs for easy selection when you start typing their names.
+    AstroBin is connected to the SIMBAD Astronomical Database, which contains
+    over 5 million objects under over 15 million names!
 
-[![][3]][3]
-
-
-5. **All the data at a glance**
-
-Each image on AstroBin is annotated of all the technical details about its
-acquisition. Telescopes involved, cameras, mounts, filters, everything is
-visible at a glance in the Technical Card. Even the Moon age at the time of the
-acquisition is displayed.
-
-[![][4]][4]
+    [![][2]][2]
 
 
-6. **More than just an image**
+4.  **Data is strongly interconnected**
 
-AstroBin will do more than just host a copy of your image: when you upload a
-photograph, a histogram and a black & white inverted version of the image will
-be generated on the fly, so it's easier to spot faint nebulosity regions or
-spiral arms. Images will also be plate solved, and an annotated version will
-appear on the site. AstroBin will know what are the astronomical objects in
-your image without you telling!
+    Have you ever wanted to see how your next image is going to look like? On
+    AstroBin, you can search for all images of a certain target that were taken
+    with a certain telescope and a certain CCD or camera. Or a certain filter.
+    How about all the images between 6 and 8 hours of integration? Or with a
+    certain Moon phase? You can do that!
 
-[![][5]][5]
-
-
-7. **AstroBin supports multiple image revisions**
-
-Don't tell me you have never gone back to revise the processing of an image
-after you had published it. AstroBin embraces this concept and lets you publish
-several revisions of the same image easily and intuitively! Now it's going to
-be really easy to tell whether your processing has improved.
-
-[![][6]][6]
+    [![][3]][3]
 
 
-8. **AstroBin is social!**
+5.  **All the data at a glance**
 
-On AstroBin you can message other astrophotographer, follow them and be
-notified when they post new images, or perform requests for more data. You can
-also vote on images.
+    Each image on AstroBin is annotated of all the technical details about its
+    acquisition. Telescopes involved, cameras, mounts, filters, everything is
+    visible at a glance in the Technical Card. Even the Moon age at the time of
+    the acquisition is displayed.
 
-[![][7]][7]
+    [![][4]][4]
 
 
-9. **Have your data neatly plotted**
+6.  **More than just an image**
 
-Data is everything, and AstroBin will give you the tools to keep your data neat
-and organized. And with our plots, you can get insights on your productivity
-and on the gear you use the most.
+    AstroBin will do more than just host a copy of your image: when you upload
+    a photograph, a histogram and a black & white inverted version of the image
+    will be generated on the fly, so it's easier to spot faint nebulosity
+    regions or spiral arms. Images will also be plate solved, and an annotated
+    version will appear on the site. AstroBin will know what are the
+    astronomical objects in your image without you telling!
 
-[![][8]][8]
+    [![][5]][5]
+
+
+7.  **AstroBin supports multiple image revisions**
+
+    Don't tell me you have never gone back to revise the processing of an image
+    after you had published it. AstroBin embraces this concept and lets you
+    publish several revisions of the same image easily and intuitively! Now
+    it's going to be really easy to tell whether your processing has improved.
+
+    [![][6]][6]
+
+
+8.  **AstroBin is social!**
+
+    On AstroBin you can message other astrophotographer, follow them and be
+    notified when they post new images, or perform requests for more data. You
+    can also vote on images.
+
+    [![][7]][7]
+
+
+9.  **Have your data neatly plotted**
+
+    Data is everything, and AstroBin will give you the tools to keep your data
+    neat and organized. And with our plots, you can get insights on your
+    productivity and on the gear you use the most.
+
+    [![][8]][8]
 
 
 In conclusion, as you have undoubtly realized by now, AstroBin is way more than
