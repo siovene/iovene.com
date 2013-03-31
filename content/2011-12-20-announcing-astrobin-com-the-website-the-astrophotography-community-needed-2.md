@@ -135,11 +135,11 @@ keeping important data safe and organized.
 If you are as convinced as I think you are, go ahead and [sign
 up!](http://astrobin.com/accounts/register/)
 
-[1]: |filename|/images/2012_astrobin_1.png
-[2]: |filename|/images/2012_astrobin_2.png
-[3]: |filename|/images/2012_astrobin_3.png
-[4]: |filename|/images/2012_astrobin_4.png
-[5]: |filename|/images/2012_astrobin_5.png
-[6]: |filename|/images/2012_astrobin_6.png
-[7]: |filename|/images/2012_astrobin_7.png
-[8]: |filename|/images/2012_astrobin_8.png
+[1]: |filename|/images/2011_astrobin_1.png
+[2]: |filename|/images/2011_astrobin_2.png
+[3]: |filename|/images/2011_astrobin_3.png
+[4]: |filename|/images/2011_astrobin_4.png
+[5]: |filename|/images/2011_astrobin_5.png
+[6]: |filename|/images/2011_astrobin_6.png
+[7]: |filename|/images/2011_astrobin_7.png
+[8]: |filename|/images/2011_astrobin_8.png

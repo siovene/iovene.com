@@ -12,4 +12,4 @@ subframes to accomplish this decently clean and signal rich image.
 
 2000 light-years away, it's a very active star forming region.
 
-[1]: |filename|/images/2012_pelican.jpg
+[1]: |filename|/images/2011_pelican.jpg
