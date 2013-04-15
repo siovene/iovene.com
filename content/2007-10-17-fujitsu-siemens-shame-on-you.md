@@ -3,6 +3,7 @@ slug: fujitsu-siemens-shame-on-you
 title: Fujitsu-Siemens shame on you
 category: Software
 tags: opinion
+status: draft
 
 I found myself in the process of realizing a dual-boot system on a laptop, with
 Windows XP and [Ubuntu 7.10](http://www.ubuntu.com/). After wiping out the

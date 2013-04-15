@@ -3,6 +3,7 @@ slug: who-wants-to-talk-about-patent-infringement
 title: Who wants to talk about patent infringement?
 category: Software
 tags: opinion
+status: draft
 
 After all the dust raised again by Microsoft about Linux and the Open Source
 community allegedly committing patent infringements

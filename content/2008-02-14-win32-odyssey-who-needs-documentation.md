@@ -3,6 +3,7 @@ slug: win32-odyssey-who-needs-documentation
 title: Win32 odyssey: who needs documentation?
 category: Software
 tags: opinion
+status: draft
 
 During my coding adventures, I have just found myself having to port an
 existing Win32 application to [CMake](http://www.cmake.org/). After writing a

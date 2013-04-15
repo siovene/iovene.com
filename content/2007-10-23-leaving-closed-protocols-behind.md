@@ -3,6 +3,7 @@ slug: leaving-closed-protocols-behind
 title: Leaving closed protocols behind
 category: Personal
 tags: opinion
+status: draft
 
 In order to fulfill what has been a proposition of mine for quite a long time,
 **as of December the 1st 2007, I will no longer use any Instant Messaging
