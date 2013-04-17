@@ -5,9 +5,9 @@ category: Software
 tags: versioning, darcs
 
 Having already mentioned [some good practices for source code
-versioning](http://www.iovene.com/content/view/88/34/) and [how important
-versioning is](http://www.iovene.com/content/view/92/34/), in any case, I would
-like now to review and comment about what I find the best source code
+versioning](/posts/2006/12/5-svn-best-practices/) and [how important versioning
+is](/posts/2006/12/getting-a-project-done-using-clever-design/), in any case, I
+would like now to review and comment about what I find the best source code
 management system out there: [darcs](http://www.darcs.net/).
 
 Darcs is a source control system written in

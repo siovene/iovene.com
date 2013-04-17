@@ -4,8 +4,8 @@ title: 5 SVN best practices
 category: Software
 tags: versioning
 
-Versioning systems like CVS, [SVN](http://www.iovene.com/please-drop-svn/) or
-[Darcs](http://www.iovene.com/darcs-the-source-code-management-system-of-the-future/)
+Versioning systems like CVS, [SVN](/posts/2007/02/please-drop-svn/) or
+[Darcs](/posts/2006/12/darcs-the-source-code-management-system-of-the-future/)
 are very important tools, that no serious programmers can omit to use. If you
 started a project without using any versioning tools, I really recommend that
 you start using one immediately; but I'm not discussing this right now.

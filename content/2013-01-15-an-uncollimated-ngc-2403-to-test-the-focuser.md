@@ -7,8 +7,9 @@ tags:, astrophotography, collimation, G2-1600, galaxy, NGC 2403, Simak 240
 [![][1]][1]
 
 And up and down the roller coaster, with my recently acquired [Simak
-240](http://www.iovene.com/874/), and off we go with another test run. I knew
-that the collimation was really bad, but I just wanted to test the focuser.
+240](/posts/2013/01/the-simak-240-at-work/), and off we go with another test
+run. I knew that the collimation was really bad, but I just wanted to test the
+focuser.
 
 I had had some trouble with the JMI PCFC driver in combination with a certain
 USB port on my computer. Somehow, after a while, the focuser would simply stop

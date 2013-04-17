@@ -34,5 +34,5 @@ are in the smiley picker. If not, a reboot should do.
 Enjoy!
 
 [1]: |filename|/images/2010_tango_smilies.png "Tango smilies"
-[2]: http://www.iovene.com/wp-content/uploads/2010/05/tango-smilies.png
+[2]: |filename|/files/conversations-tango-smilies_0.1_all.deb
 [3]: http://www.google.com/search?q=N900+become+root

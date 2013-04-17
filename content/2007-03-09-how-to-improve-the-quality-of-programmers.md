@@ -5,7 +5,7 @@ category: Software
 tags: coding, opinion
 
 After [claiming that most programmers just can't
-program,](http://www.iovene.com/why-most-programmers-are-lousy/) and actually
+program,](/posts/2007/03/why-most-programmers-are-lousy/) and actually
 addressing most of the problems to the lack of passion of people who decide to
 start a career as a programmer, I would also like to express my point of view
 on a tightly related subject: **what can be done to improve the situation?**
@@ -116,7 +116,7 @@ peanuts. The salaries keep going down, and customers are not able to
 distinguish a good job from a good one.
 
 In a comment on the [previous post of
-mine](http://www.iovene.com/why-most-programmers-are-lousy/) about this
+mine](/posts/2007/03/why-most-programmers-are-lousy/) about this
 subject, [Hoowie Goodell](http://www.lri.fr/~goodell/)  really gets a great
 point with this paragraph:
 

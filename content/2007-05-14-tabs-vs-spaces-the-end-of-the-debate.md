@@ -5,11 +5,11 @@ category: Software
 tags: coding
 
 When writing source code, **indenting** is very important. [Having a neat and
-clean programming](http://www.iovene.com/how-to-write-robust-code/) style, let
-alone a _precise and uniform_ one, is probably one of the most important keys
-when attaching example source code with a job application. I was myself asked
-to show some of my source code in my last two interviews. Nobody ever asked me
-to show any _running_ program that I had made, though. Wonder why? A lot can be
+clean programming](/posts/2007/01/how-to-write-robust-code/) style, let alone a
+_precise and uniform_ one, is probably one of the most important keys when
+attaching example source code with a job application. I was myself asked to
+show some of my source code in my last two interviews. Nobody ever asked me to
+show any _running_ program that I had made, though. Wonder why? A lot can be
 understood about the author just by glancing quickly at some source code.
 
 _Indenting_ makes the source code easier to read for us human beings, whereas

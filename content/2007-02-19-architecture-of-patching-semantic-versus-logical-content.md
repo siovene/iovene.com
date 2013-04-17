@@ -5,7 +5,7 @@ category: Software
 tags: versioning
 
 Inspired by a certain patch that hit a
-[darcs](http://www.iovene.com/darcs-the-source-code-management-system-of-the-future/)
+[darcs](/posts/2006/12/darcs-the-source-code-management-system-of-the-future/)
 repository to which I concur, I would like to talk about one thing that
 developers don't seem to get very often, when using revision control systems:
 **the structure of your files in the repository should have nothing to do with
@@ -39,8 +39,6 @@ actually added to a repository.
 
 In other words, the **form** and **content** of patches should not only
 represent single units of implicit logical value, [as discussed
-earlier](http://www.iovene.com/5-svn-best-practices/), but should have no
+earlier](/posts/2006/12/5-svn-best-practices/), but should have no
 _awareness_ whatsoever of being part of a revision control system, or being
 uploaded to repositories, contains file, or even being patches at all!
-
-Read more versioning tips [here](http://www.iovene.com/5-svn-best-practices/).

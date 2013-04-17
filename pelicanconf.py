@@ -26,7 +26,11 @@ SUMMARY_MAX_LENGTH = 75
 
 DEFAULT_PAGINATION = 10
 THEME = 'lannisport'
-STATIC_PATHS = ['images', 'resume']
+STATIC_PATHS = [
+    'files',
+    'images',
+    'resume'
+]
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'

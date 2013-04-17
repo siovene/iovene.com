@@ -8,10 +8,10 @@ tags: astrophotography, Canon450D, ED80, galaxy, m81, m82, PixInsight, QHY5
 
 [![][2]][2]
 
-Two blog posts ago I showed [a better M81 and M82](http://www.iovene.com/500/).
-They were a good improvement over my first try. I have, since, experimented a
-little with PixInsight, a program which I intend to purchase because it's
-available on GNU/Linux.
+Two blog posts ago I showed [a better M81 and
+M82](/posts/2011/03/a-better-m81-and-m82/).  They were a good improvement over
+my first try. I have, since, experimented a little with PixInsight, a program
+which I intend to purchase because it's available on GNU/Linux.
 
 [1]: |filename|/images/2011_m81_reprocessed.jpg
 [2]: |filename|/images/2011_m82_reprocessed.jpg

@@ -11,7 +11,7 @@ something that actually did find its way to success, but I have to say that
 **SVN sounds terribly _antique_** sometimes.
 
 I have already given [a brief introduction to the Darcs source control
-system](http://www.iovene.com/darcs-the-source-code-management-system-of-the-future/),
+system](/posts/2006/12/darcs-the-source-code-management-system-of-the-future/),
 and I would like here to talk about **a very strong point** it's got against
 SVN.
 

@@ -56,29 +56,31 @@ As a result of some of these, robust code is also:
 ### Well designed.
 
 Having already talked about this [somewhere
-else](http://www.iovene.com/content/view/92/34/), I'll be brief on this
-section. Writing a complex program, a program made of hundreds of thousands
-lines of code, is a _damn complicated thing_: it takes many people and a
-lot of time. Usually, the more people you involve in the project, the less
-robust code you'll get in the end. People will use different conventions
-and different styles. For this reason, not only it's crucial to hire the
-right developers, but it's essential to have a _very strict_ and detailed
-specification of the project. Programming is a creative work, no doubt, and
-coders need to have freedom so they can breathe. A constrained coder is a
-chained coder, hence a dead coder and a threat to the quality of the end
-product. But, in spite of how much we care for the freedom and openness of
-initiative from the developers, we have to be aware that loosing control
-means lowering the quality. A large project must be designed thoroughly and
-carefully, in every single details. Even though programmers love freedom,
-most of them also love exhaustive documentation. If you want to make a good
-coder happy, and get the best out of him, flood him with docs and specs.
-Nothing pisses off the good coder as the lack of documentation: it tears
-his motivation apart. "Why should I start to read their minds and run by
+else](/posts/2006/12/10-pieces-of-advice-to-write-good-code/), I'll be brief on
+this section. Writing a complex program, a program made of hundreds of
+thousands lines of code, is a _damn complicated thing_: it takes many
+people and a lot of time. Usually, the more people you involve in the
+project, the less robust code you'll get in the end. People will use
+different conventions and different styles. For this reason, not only it's
+crucial to hire the right developers, but it's essential to have a _very
+strict_ and detailed specification of the project. Programming is a
+creative work, no doubt, and coders need to have freedom so they can
+breathe. A constrained coder is a chained coder, hence a dead coder and a
+threat to the quality of the end product. But, in spite of how much we care
+for the freedom and openness of initiative from the developers, we have to
+be aware that loosing control means lowering the quality. A large
+project must be designed thoroughly and carefully, in every single
+details. Even though programmers love freedom, most of them also love
+exhaustive documentation. If you want to make a good coder happy, and
+get the best out of him, flood him with docs and specs.  Nothing pisses
+off the good coder as the lack of documentation: it tears his
+motivation apart. "Why should I start to read their minds and run by
 guesses" - he thinks, "when they didn't even get the time to write good
 specs?". Furthermore, a project without good specs looks superficial,
-destined to failure and without a future. A very good coder is hardly going
-to stay in a company that doesn't make good design for the projects. He
-will think that it's a loser company, and start looking around.
+destined to failure and without a future. A very good coder is hardly
+going to stay in a company that doesn't make good design for the
+projects. He will think that it's a loser company, and start looking
+around.
 
 But what does _good design_ mean? A good design is:
 
@@ -117,36 +119,35 @@ some code, both on a small scale and on a large scale. Neatness of software on
 a small scale means that you're able to look at one function and appreciate the
 simplicity of it. Neat pieces of code are easily readable and use good name
 conventions. Please [read this
-article](http://www.iovene.com/content/view/87/34/) if you want to know more
-about good code on a small scale. Neat code on a larger scale, on the other
-hand, means neat integration between components and subsystem of a project. A
-_**bad**_ integration would mean, e.g., having a project-wide global variable
-that points to a certain subsystem, and using it everywhere in the project. Or
-having two subsystems that, in a messed and intertwined way, mutually call each
-other's methods [violating several layers of
-abstraction](http://www.iovene.com/content/view/89/34/). Proving what neat code
-is, turns up to be very difficult. It's a bit like the opposite of what happens
-with common logic: if I want to prove you that, say, lions exist, I can just go
-to Africa, pick one and show it to you, then say "That's a lion, ergo lions
-exist". But how can I prove that unicorns or dragon don't exist? You probably
-agree that it's much more difficult. It's just the opposite with neat code. I
-can show you bad code, and you will easily agree that it's bad. But looking at
-neat code doesn't it prove it neat right away. It takes probably years and
-years of experience, writing a lot of code and reading a lot.
+article](/posts/2006/12/10-pieces-of-advice-to-write-good-code/) if you want to
+know more about good code on a small scale. Neat code on a larger scale, on the
+other hand, means neat integration between components and subsystem of a
+project. A _**bad**_ integration would mean, e.g., having a project-wide global
+variable that points to a certain subsystem, and using it everywhere in the
+project. Or having two subsystems that, in a messed and intertwined way,
+mutually call each other's methods violating several layers of
+abstraction. Proving what neat code is, turns up to be very difficult. It's a
+bit like the opposite of what happens with common logic: if I want to prove you
+that, say, lions exist, I can just go to Africa, pick one and show it to you,
+then say "That's a lion, ergo lions exist". But how can I prove that unicorns
+or dragon don't exist? You probably agree that it's much more difficult. It's
+just the opposite with neat code. I can show you bad code, and you will easily
+agree that it's bad. But looking at neat code doesn't it prove it neat right
+away. It takes probably years and years of experience, writing a lot of code
+and reading a lot.
 
 
 ### Well named
 
-This topic [has already been discussed
-here](http://www.iovene.com/content/view/87/34/), but _repetuta juvant_. As
-code is managed by possibly dozens or more people, being understood is an
-important key to increase robustness of the code. Writing robust code also
-means writing code that will easily _stay_ robust when other people will modify
-of expand it, unless they have no clue, of course. The most your code is
-understood by others, the most likely they will not break your ideas, and keep
-the code robust. There are several ways of making own code easily understood,
-and having a good, consistent and solid naming convention is one of them. Of
-course, as discussed later, code needs to be well documented also.
+This topic has already been discussed here, but _repetuta juvant_. As code is
+managed by possibly dozens or more people, being understood is an important key
+to increase robustness of the code. Writing robust code also means writing code
+that will easily _stay_ robust when other people will modify of expand it,
+unless they have no clue, of course. The most your code is understood by
+others, the most likely they will not break your ideas, and keep the code
+robust. There are several ways of making own code easily understood, and having
+a good, consistent and solid naming convention is one of them. Of course, as
+discussed later, code needs to be well documented also.
 
 
 ### Well commented
@@ -170,9 +171,7 @@ you're doing, and being more conscious about it. It will keep your state of
 mind clear and precise. I **strongly** recommend using [Doxygen](
 http://www.stack.nl/~dimitri/doxygen/) to generate a browseable HTML  version
 of your comments, especially if you're writing a library. Otherwise, it's still
-going to keep you on a [professional
-line](http://www.iovene.com/10-advice-to-write-good-code/), which is always a
-good thing.
+going to keep you on a professional line, which is always a good thing.
 
 
 ### Well tested
