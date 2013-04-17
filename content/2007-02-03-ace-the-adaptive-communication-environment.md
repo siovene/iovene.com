@@ -1,7 +1,7 @@
 date: 2007-02-03 14:44:35
 slug: ace-the-adaptive-communication-environment
 title: ACE: The Adaptive Communication Environment
-categories: Software
+category: Software
 tags: ACE, review
 
 For some time, in the last months, I have been using, both for work and leisure
