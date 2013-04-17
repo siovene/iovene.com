@@ -20,7 +20,7 @@ FLICKR_URL = 'http://flickr.com/photos/siovene'
 LICENSE_NAME = 'CC BY-SA 3.0'
 LICENSE_URL  = 'http://creativecommons.org/licenses/by-sa/3.0/'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Helsinki'
 DEFAULT_LANG = u'en'
 
 DEFAULT_PAGINATION = 10
