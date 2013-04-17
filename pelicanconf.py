@@ -22,6 +22,7 @@ LICENSE_URL  = 'http://creativecommons.org/licenses/by-sa/3.0/'
 
 TIMEZONE = 'Europe/Helsinki'
 DEFAULT_LANG = u'en'
+SUMMARY_MAX_LENGTH = 75
 
 DEFAULT_PAGINATION = 10
 THEME = 'lannisport'
