@@ -32,9 +32,9 @@ acquired over the course of several nights this April. This is my take at
 processing the joint data, and I'm sure Samuel and Colin will do just as good
 or better.
 
-I'm really satisfied at the amount of faint signal we got dispite the "slow"
+I'm really satisfied at the amount of faint signal we got despite the "slow"
 equipment (both Colin and I are at f/8, while Samuel is at f/6, if I'm not
-misaken.)
+mistaken.)
 
 The image shows a large amount of tiny background galaxies.
 
