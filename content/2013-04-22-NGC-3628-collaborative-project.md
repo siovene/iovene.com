@@ -41,7 +41,7 @@ The image shows a large amount of tiny background galaxies.
 Off to the left, unfortunately out of the framing, lies the tidal stream that
 extends some 300,000 light-years away from the galaxy.
 
-[0]: |filename|/images/2013_ngc3628_css_31h.jpg
+[0]: |filename|/images/2013_ngc3628_css_31h.jpg "NGC 3628 ~ 31h"
 [1]: http://astrob.in/users/samueldl "Samuel on AstroBin"
 [2]: http://astrob.in/users/mcgillca "Colin on AstroBin"
 [3]: http://www.astrocamp.es/ "AstroCamp"
