@@ -10,7 +10,7 @@ many things can go wrong] [1], never stops finding ways to stomp you.
 Since my friend Samuel installed his [GSO RC8] [2] on my mount in Nerpio, I had
 been tormented by [trouble with elongated stars] [3].
 
-You probably won't believe me know, but I've been struggling with conflicting
+You probably won't believe me now, but I've been struggling with conflicting
 evidence: it [was tilt] [4], no it wasn't; it was flexure of the OAG mirror, no
 it wasn't; it was bad tracking, no it wasn't, wait it was, no really it's not,
 hold on a second it is!
