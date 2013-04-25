@@ -16,7 +16,7 @@ it wasn't; it was bad tracking, no it wasn't, wait it was, no really it's not,
 hold on a second it is!
 
 Multiple experiments with short and long exposures kept giving me conflicting
-evidence weather the tracking was indeed poor or not. I've had elongated stars
+evidence whether the tracking was indeed poor or not. I've had elongated stars
 with only 10 second subs, or perfect stars with 1800 second subs.
 
 Last night, at last, I found that the clock in my mount had been running 8
