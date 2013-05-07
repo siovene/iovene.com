@@ -6,7 +6,7 @@ tags: RC10, Ikharos 8, NGC 4631, galaxy
 
 [![][0]][0]
 
-[Samuel][1], [Colin McGill][2] and yours truly have worked on another
+[Samuel Diaz Lopez][1], [Colin McGill][2] and yours truly have worked on another
 fascinating galaxy.
 
 This time, however, due to technical problems now solved, I haven't been able to
@@ -41,7 +41,7 @@ The acquisition consisted of a grand total of 19 hours, divided like follows:
 
  I'm quite satisfied about the processing, which was made entirely in PixInsight
  1.7. For starters, the deconvolution was very successful, and it allowed the
- revealing of many details in the core. Then, I was able to succefully use the
+ revealing of many details in the core. Then, I was able to successfully use the
  `MultiscaleMedianTransform` process for noise reduction, and that's a really
  powerful tool, if you know how to use it.
 
