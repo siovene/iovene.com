@@ -19,7 +19,7 @@ model.
 
 It's got a Shimano Ultegra group and Shimano 105 brakes.
 
-I [took it for a ride][1] yesterday and it really felt like night and day
+I [took it for a ride][2] yesterday and it really felt like night and day
 compared to my previous bike. This thing accelerates like it has a will of its
 own. It's easier to reach faster speeds and maintain them. The group shift with
 a quiet click and it feels very appeasing.
