@@ -14,7 +14,7 @@ For those of you who don't know, my equipment is currently hosted by
 south of Spain.
 
 AstroCamp is located in a pristine and remote area, without any light pollution
-to speak of, and excellent weather (expect these past winter and spring, which
+to speak of, and excellent weather (except these past winter and spring, which
 have been disastrous throughout Europe.)
 
 I had never been there before: for the initial setting up, I simply shipped my
@@ -27,15 +27,15 @@ night, and Samuel hosting me for the night. The next day we left early for the
 5-hour drive across the Spanish countryside, finally reaching Nerpio in time
 for lunch.
 
-At Nerpio, I stayed at [El Molino][2], a nice, little, cozy hotel/restaurant
-with some excellent food. However, the only sleep I could get was bewseen 7AM
+In Nerpio, I stayed at [El Molino][2], a nice, little, cozy hotel/restaurant
+with some excellent food. However, the only sleep I could get was between 7AM
 and 1PM, during my three days there.
 
 Getting from the small town of Nerpio up to the observatory required a 4x4 jeep
 vehicle, and some driving skills. The road is a rugged, menacing serpent,
 sometimes steep, often treacherous.
 
-After we left the paved bit behind us, the scenary quickly became that of a
+After we left the paved bit behind us, the scenery quickly became that of a
 harsh, inhospitable land. Reaching the peak meant being in the most remote
 place I've ever been, and the view that presented itself before my eyes was
 staggering.
@@ -76,11 +76,11 @@ install the Lodestar's drivers. This task would take the bigger part of the
 night and the next afternoon, which is something I find utterly unbelievable.
 
 I spent the night improving my polar alignment (it only took 10 minutes and I
-got down to only 34"!) and constructing a full alighment model for my mount.
+got down to only 34"!) and constructing a full alignment model for my mount.
 
 The next day, after I finally managed to get the Lodestar working, it was prime
 time: the most important thing was to figure out why the my guiding yielded
-elogated stars. You can read my previous posts on this blog, but it boils down
+elongated stars. You can read my previous posts on this blog, but it boils down
 to there being star elongation along the RA axis, and nobody knowing why.
 
 After a quick test, I was deeply saddened to find out that the problem was not
@@ -108,7 +108,7 @@ The first thing I learned was that the SBIG ST-i is indeed a great
 disappointment: the Lodestar could show a lot more stars, when using the OAG on
 a random patch of sky. I moved the telescope around and saw that with an
 integration of only 5 seconds, the Lodestar could always find more than one
-suitable guid star. That was good news.
+suitable guide star. That was good news.
 
 After performing a perfect balance on both axes, focusing both guider cameras
 and centering the small Lunatico guider scope, I attempted to guide.
@@ -119,7 +119,7 @@ fixed.
 I tested guiding both at 0.25x and 0.50x (with 1 being the sidereal speed),
 with the same poor results.
 
-Exhausted and out of ideas, I had to call it a night and decreet the end of the
+Exhausted and out of ideas, I had to call it a night and decree the end of the
 trip.
 
 What's in the future? I firmly believe that the equipment is now perfectly
@@ -133,7 +133,7 @@ I'm going to have to wait the next clear night to check it out, otherwise I'll
 ask Ivan Mariotti, of 10Micron, to help me out.
 
 One last paragraph goes to the [Simak 240][6]. I could spend many hours, during
-the day, trying to troubleshoot the optical issues I've been facing with it.
+the day, trying to troubleshoot the optical issues I'd been facing with it.
 The final verdict is that the most serious problem is with the focuser, a JMI
 EV2, that has a very poor axis alignment, and that would cause optical tilting
 and astigmatism.
@@ -142,7 +142,7 @@ and astigmatism.
 [![][7]][7]
 
 Moreover, somewhere in the optical train, there is pinching and more tilting.
-It's impossible to correctly align the front menuscus, because even slight
+It's impossible to correctly align the front meniscus, because even slight
 different in the tightness of the screws would produce visible optical defects.
 
 I don't think this is a telescope fit for astrophotography, unfortunately. Or
