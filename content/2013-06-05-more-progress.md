@@ -18,6 +18,6 @@ Nerpio, but it's fine *now*) and the RGB data is not calibrated, so if you zoom
 in you can see lots of colored hot pixels. I'm still happy I can see the end of
 the tunnel.
 
-[0]: |filename|/images/2013_m13_15x180L_15x300RGB.jpg "M13 globular cluster, L: 15x180, RGBb: 15x300"
+[0]: |filename|/images/2013_m13_15x180L_15x300RGB.jpg "M13 globular cluster, L: 15x180, RGB: 15x300"
 [1]: /posts/2013/05/breakthrough/
 [2]: http://www.astroinfo.it/
