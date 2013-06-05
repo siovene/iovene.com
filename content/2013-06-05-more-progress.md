@@ -9,7 +9,7 @@ tags: GM2000, guiding, M13
 After the recent [breakthrough][1], and thanks to some precious help by
 [Giancarlo Calzetta][2], I was finally able to tame the bulk of the problem.
 
-What's left is some differencial flexure, at least when imaging west. In the
+What's left is some differential flexure, at least when imaging west. In the
 meantime, I was able to produce this quick jab at M13 (thanks Samuel for the RGB
 data!)
 
