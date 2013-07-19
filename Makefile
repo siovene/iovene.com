@@ -75,6 +75,6 @@ github: publish
 	git push origin gh-pages
 
 s3: publish
-	s3cmd sync --acl-public --delete-removed output/ s3://www.iovene.com
+	./s3sync.sh
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload github
