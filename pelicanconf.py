@@ -29,7 +29,7 @@ THEME = 'lannisport'
 STATIC_PATHS = [
     'files',
     'images',
-    'resume'
+    'cv'
 ]
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
