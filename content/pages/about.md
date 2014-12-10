@@ -20,7 +20,7 @@ On the side, I'm the founder of [AstroBin](http://www.astrobin.com/), a popular
 image hosting platform for astrophotographers.
 
 I can boast a vast area of expertise, with good knowledge of C, C++, Python and
-Javascript, as you can read in my [résumé](/pages/resume/).
+Javascript, as you can read in my [curricum vitae](/pages/cv/).
 
 This website includes snippets from my personal thoughts, life, ideologies and
 hobbies.
