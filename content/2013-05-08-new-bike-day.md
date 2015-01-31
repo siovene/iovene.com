@@ -1,7 +1,7 @@
 date: 2013-05-08
 slug: new-bike-day
 title: New bike day!
-category: Personal
+category: Cycling
 tags: cycling, Trek Madone 3.5
 
 [![][0]][0]
