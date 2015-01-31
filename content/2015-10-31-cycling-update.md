@@ -36,7 +36,7 @@ something, getting 278 TSS done on week 2, and 306 on week 3.
 
 In theory you should increase your TSS week after week, up until your
 recovery week when you do about 50% of your average TSS in your
-previous weeks, so now I am left with a monstruously positive TSB and
+previous weeks, so now I am left with a monstrously positive TSB and
 the need to start the build block from the beginning.
 
 [![][2015.01.cu.pmc]][2015.01.cu.pmc]
