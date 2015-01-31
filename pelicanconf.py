@@ -8,7 +8,7 @@ SITENAME = u'Salvatore Iovene'
 SITETAGLINE = u'Mostly astrophotography and code'
 SITEURL = 'http://iovene.com'
 SITELOGO = 'images/me.png'
-SITEDESCR = u'Hi, I am a software engineer and astrophotographer living in '\
+SITEDESCR = u'Hi, I am a software engineer, road cyclist  and astrophotographer living in '\
 'Espoo, Finland, and working for the Intel Open Source Technology Centre.'
 
 GITHUB_URL = 'https://github.com/siovene'
