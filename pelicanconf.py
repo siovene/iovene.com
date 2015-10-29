@@ -6,7 +6,7 @@ GOOGLE_ANALYTICS_CODE = 'UA-844985-1'
 AUTHOR = u'Salvatore Iovene'
 SITENAME = u'Salvatore Iovene'
 SITETAGLINE = u'Mostly astrophotography and code'
-SITEURL = 'http://iovene.com'
+SITEURL = 'http://www.iovene.com'
 SITELOGO = 'images/me.png'
 SITEDESCR = u'Hi, I am a software engineer, road cyclist  and astrophotographer living in '\
 'Espoo, Finland, and working for the Intel Open Source Technology Centre.'
